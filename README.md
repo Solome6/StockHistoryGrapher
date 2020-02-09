@@ -2,7 +2,9 @@
 
 Required packages:
 1) quandl and all its dependancies.
+    pip install quandl
 2) matplotlib.pyplot
+    pip install matplotlib
 3) matplotlib.dates
 
 About:
