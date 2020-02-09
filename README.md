@@ -1,11 +1,9 @@
 # StockHistoryGrapher
 
 Required packages:
-1) quandl and all its dependancies.
-    pip install quandl
-2) matplotlib.pyplot
-    pip install matplotlib
-3) matplotlib.dates
+1) quandl (pip install quandl)
+2) matplotlib (pip install matplotlib)
+    
 
 About:
 A stock grapher that uses Quandl API to obtain stock values for various companies.
