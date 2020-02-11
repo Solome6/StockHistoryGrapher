@@ -15,10 +15,10 @@ How to run:
 1) Run file main.py
 2) Respond to the text prompts via keyboard inputs.
     Example:
-    Apple's stock symbol: AAPL
-    Start year: 2017
-    Start month: 3
-    Start day: 18
-    End year: 2018
-    End month: 1
-    End day: 20
+    - Apple's stock symbol: AAPL
+    - Start year: 2017
+    - Start month: 3
+    - Start day: 18
+    - End year: 2018
+    - End month: 1
+    - End day: 20
