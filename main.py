@@ -1,10 +1,6 @@
 from web_functions import query_data
 from visualize_functions import visualize
 
-"""
-    Input: a string ('start' or 'end')
-    Returns: a string that represents year-month-day
-"""
 def user_input_date(str_x):
     print("Enter a " + str_x + " year: ")
     year = int(input())
@@ -18,13 +14,6 @@ def user_input_date(str_x):
     date = str(year) + "-" + str(month) + "-" + str(day)
     return date
 
-"""
-    Input: None
-    Returns: None
-    Does: Takes in company stock symbol and time frame.
-        Then uses Turtle graphics to visualize the stock values
-        over the given time frame.
-"""
 def main():
     print("Stock History Grapher")
     print("---------------------")
